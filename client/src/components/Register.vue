@@ -17,7 +17,9 @@
     <button
      @click="register">Register</button>
 
+    <h1> New element!</h1>
   </div>
+
 </template>
 
 <script>
